@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png"	group-title = "Popüler", TRT 1 #1.0
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png"	group-title = "Popüler", TRT 1 #2.0
+https://trt1.blutv.com/blutv_trt1_live/live.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png"	group-title = "Popüler", TRT 1 #3.0
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png"	group-title = "Popüler", TRT 2 #1.0
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/2560px-TRT_2_logo.svg.png"	group-title = "Popüler", TRT 2 #2.0
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #1.0
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #2.0
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #3.0
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #4.0
+https://soledge21.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #5.0
+https://soledge21.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #6.0
+https://teve2.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #7.0
+https://teve2.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+
+#EXTINF:-1	tvg-logo = "https://upload.wikimedia.org/wikipedia/tr/thumb/c/ca/Kanal_D_logo.svg/1200px-Kanal_D_logo.svg.png"	group-title = "Popüler", Kanal D #8.0
+https://kanald.blutv.com/blutv_kanald_live/live.m3u8
